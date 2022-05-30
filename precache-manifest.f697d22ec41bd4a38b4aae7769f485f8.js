@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "9aec1425735abefb3715",
+    "revision": "37e7ffa44ac1403a75aa",
     "url": "/robotfriends/static/css/main.aa8e767f.chunk.css"
   },
   {
-    "revision": "9aec1425735abefb3715",
-    "url": "/robotfriends/static/js/main.9aec1425.chunk.js"
+    "revision": "37e7ffa44ac1403a75aa",
+    "url": "/robotfriends/static/js/main.37e7ffa4.chunk.js"
   },
   {
     "revision": "7d8a5b69bced8be18895",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/robotfriends/static/js/runtime~main.8a9ad1ba.js"
   },
   {
-    "revision": "f275defb04bb5b5a0ce735e5d4a8a596",
+    "revision": "2030516583866500a3b52d17df887691",
     "url": "/robotfriends/index.html"
   }
 ];
